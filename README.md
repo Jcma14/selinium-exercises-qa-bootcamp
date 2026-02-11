@@ -17,7 +17,7 @@
 
 ## About This Repository
 
-Welcome to my Selenium WebDriver practice repository! This project represents my hands-on learning experience during **Sprint 8** of my QA Engineering bootcamp, where I dove deep into web automation testing using Python and Selenium.
+Welcome to my Selenium WebDriver practice repository! This project represents my hands-on learning experience during **Sprint 9** of my QA Engineering bootcamp, where I dove deep into web automation testing using Python and Selenium.
 
 This repository contains practical exercises and real-world examples that demonstrate my growing expertise in automating web browser interactions, validating web applications, and building robust test frameworks.
 
@@ -62,5 +62,6 @@ I'm always eager to learn, collaborate, and grow! Feel free to:
 - ⭐ Star this repository if you find it helpful
 - 🐛 Report issues or suggest improvements
 - 💬 Reach out for collaboration or questions
+
 
 
