@@ -9,13 +9,13 @@
 [![QA Engineering](https://img.shields.io/badge/QA-Engineering-4ECDC4?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/yourusername/yourrepo)
 [![Learning in Public](https://img.shields.io/badge/Learning-In%20Public-FFD93D?style=for-the-badge&logo=lighthouse&logoColor=black)](https://github.com/yourusername/yourrepo)
 
-📚 **Sprint 8** - QA Engineering Bootcamp | Web Automation Testing 
+📚 **Sprint 9** - QA Engineering Bootcamp | Web Automation Testing 
 
 </div>
 
 ---
 
-## About This Project
+## About This Repository
 
 Welcome to my Selenium WebDriver practice repository! This project represents my hands-on learning experience during **Sprint 8** of my QA Engineering bootcamp, where I dove deep into web automation testing using Python and Selenium.
 
@@ -62,4 +62,5 @@ I'm always eager to learn, collaborate, and grow! Feel free to:
 - ⭐ Star this repository if you find it helpful
 - 🐛 Report issues or suggest improvements
 - 💬 Reach out for collaboration or questions
+
 
